@@ -1,18 +1,18 @@
 {
-    "name": "mainnet",
-    "messagePrefix": "ARK message:\n",
-    "bip32": {
-        "public": 46090600,
-        "private": 46089520
-    },
-    "pubKeyHash": 23,
-    "nethash": "6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988",
-    "wif": 170,
-    "slip44": 111,
-    "aip20": 0,
-    "client": {
-        "token": "ARK",
-        "symbol": "Ѧ",
-        "explorer": "https://explorer.ark.io"
-    }
+  "name": "mainnet",
+  "messagePrefix": "RIYA message:\n",
+  "bip32": {
+    "public": 46090600,
+    "private": 46089520
+  },
+  "pubKeyHash": 60,
+  "nethash": "4f48d018600594942154f398a02de0ad710da11ea357b6d228b538310e2e3471",
+  "wif": 241,
+  "slip44": 111,
+  "aip20": 0,
+  "client": {
+    "token": "RIYA",
+    "symbol": "RIYA",
+    "explorer": "http://explorer.bitriyal.net:4200"
+  }
 }
